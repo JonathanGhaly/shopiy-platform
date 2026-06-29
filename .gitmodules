@@ -1,0 +1,6 @@
+[submodule "shopiy-frontend"]
+	path = shopiy-frontend
+	url = https://github.com/JonathanGhaly/shopiy-frontend
+[submodule "shopiy"]
+	path = shopiy
+	url = https://github.com/JonathanGhaly/shopiy
